@@ -19,7 +19,6 @@ export default function FirstPost() {
             console.log("script loaded correctly, window.FB has been populated")
           }
         />
-        <Image src="/images/mike.jpg" width={400} height={350} alt="mikey" />
         <h1> This is my first post.</h1>
         <h1>
           {" "}
