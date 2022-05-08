@@ -1,0 +1,2 @@
+# nextblog
+NextJS Blog
